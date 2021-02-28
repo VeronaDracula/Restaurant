@@ -13,7 +13,7 @@ body{
 }
 .nav-link{
     margin-right: 1.2em !important;
-    font-size: 17px;
+    font-size: 1.1em;
     position: relative;
     z-index: 10;
 }
@@ -59,7 +59,7 @@ body{
 }
 .social-line .info{
     margin-right: 120px;
-    font-size: 15px;
+    font-size: 0.94em;
 }
 .social-line .info img{
     margin-left: 40px;
@@ -67,7 +67,7 @@ body{
 
 
 .header{
-    background-image: url('../img/Layer 69.png');
+    background-image: url('../img/Layer 69(1).png');
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
@@ -75,13 +75,8 @@ body{
 
 .page1 .logo{
     position: absolute;
-    top: -220px;
+    top: 0;
     left: 135px;
-}
-.page1 .logo-text{
-    position: absolute;
-    left: 255px;
-    top: 15px;
 }
 
 
@@ -94,7 +89,7 @@ body{
 
 }
 .page1 .overlay h1{
-    font-size: 109px;
+    font-size: 6.8em;
     padding-top: 184px;
     font-family: Pacifico;
     font-style: normal;
@@ -102,7 +97,7 @@ body{
 
 }
 .page1 .overlay p{
-    font-size: 25px;
+    font-size: 1.6em;
     margin-bottom: 44px;
     font-family: serif;
 
@@ -115,7 +110,7 @@ body{
     width: 160px;
     padding: 8px;
     margin: 0;
-    font-size: 20px;
+    font-size: 1.3em;
     font-family: serif;
 }
 
@@ -140,16 +135,16 @@ body{
 
 }
 .page2 h2{
-    font-size: 30px;
+    font-size: 1.9em;
     font-family: Pacifico!important;
     margin-bottom: 10px;
 }
 .page2 h3{
-    font-size: 38px;
+    font-size: 2.4em;
     margin-bottom: 25px;
 }
 .page2 p{
-    font-size: 15px;
+    font-size: 0.94em;
 }
 .page2 .big-text{
     margin-bottom: 30px;
@@ -167,6 +162,8 @@ body{
     position: absolute;
     right: 0;
     bottom: 0;
+    padding: 0;
+    text-align: right;
 }
 
 
@@ -184,7 +181,7 @@ body{
     justify-content: center;
     padding-top: 100px;
     padding-bottom: 135px;
-    margin-right: 33px;
+    /*margin-right: 33px;*/
 }
 .page3 .content div{
     display: inline-block;
@@ -193,29 +190,30 @@ body{
 .page3 .text{
     background-image: url("../img/Rectangle 4.png");
     background-size: cover;
-    width: 530px;
-    height: 460px;
-    left: 33px;
+    max-width: 530px;
+    max-height: 460px;
+    /*left: 33px;*/
     z-index: 1;
     padding: 45px;
 }
 .page3 .text h2{
-    font-size: 30px;
+    font-size: 1.9em;
     font-family: Pacifico!important;
 }
 .page3 .text h3{
-    font-size: 38px;
+    font-size: 2.4em;
 }
 .page3 .text p{
-    font-size: 15px;
+    font-size: 0.94em;
 }
 .page3 .img{
-    width: 670px;
-    height: 550px;
+    position: absolute!important;
+    /*width: 670px;
+    height: 550px;*/
 }
 .page3 a{
     color: white;
-    font-size: 15px;
+    font-size: 0.94em;
     padding: 13px 30px;
     background: #e7a331;
     border-radius: 5px;
@@ -319,11 +317,11 @@ body{
 }
 .page5 .menu{
     background: white;
-    padding: 40px 55px 35px 55px;
+    /*padding: 40px 55px 35px 55px;
     width: 600px;
     height: 450px;
     right: 100px;
-    z-index: 2;
+    z-index: 2;*/
 
 }
 .page5 .menu h4{
@@ -341,7 +339,7 @@ body{
     font-size: 18px;
 }
 .page5 .menu-img{
-    padding-left: 100px;
+    /*padding-left: 100px;*/
     position: relative;
     z-index: 1;
 }
@@ -367,16 +365,16 @@ body{
     position: relative;
 }
 .page5 .menu-all-inverse .menu{
-    background: white;
+   /* background: white;
     padding: 40px 55px 35px 55px;
     width: 600px;
     height: 450px;
     left: 100px;
-    z-index: 2;
+    z-index: 2;*/
 }
 .page5 .menu-all-inverse .menu-img{
-    padding-right: 100px;
-    padding-left: 0;
+    /*padding-right: 100px;
+    padding-left: 0;*/
 }
 .page5 .img-angle{
     position: absolute;
