@@ -174,6 +174,7 @@ body{
     background-position: center;
     font-family: serif;
     position: relative;
+    height: 700px;
 }
 .page3 .content{
     display: flex;
@@ -317,11 +318,11 @@ body{
 }
 .page5 .menu{
     background: white;
-    /*padding: 40px 55px 35px 55px;
+    padding: 40px 55px 35px 55px;
     width: 600px;
     height: 450px;
     right: 100px;
-    z-index: 2;*/
+    z-index: 2;
 
 }
 .page5 .menu h4{
@@ -339,7 +340,7 @@ body{
     font-size: 18px;
 }
 .page5 .menu-img{
-    /*padding-left: 100px;*/
+    padding-left: 100px;
     position: relative;
     z-index: 1;
 }
@@ -365,16 +366,16 @@ body{
     position: relative;
 }
 .page5 .menu-all-inverse .menu{
-   /* background: white;
+    background: white;
     padding: 40px 55px 35px 55px;
     width: 600px;
     height: 450px;
     left: 100px;
-    z-index: 2;*/
+    z-index: 2;
 }
 .page5 .menu-all-inverse .menu-img{
-    /*padding-right: 100px;
-    padding-left: 0;*/
+    padding-right: 100px;
+    padding-left: 0;
 }
 .page5 .img-angle{
     position: absolute;
