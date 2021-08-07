@@ -1,0 +1,24 @@
+@font-face {
+    src: url(../fonts/MyriadProRegular.woff);
+    font-family: 'Myriad';
+    font-weight: normal;
+}
+
+@font-face {
+    src: url(../fonts/OpenSans-Regular.woff2) format('woff2'),
+         url(../fonts/OpenSans-Regular.woff) format('woff');
+    font-family: 'OpenSans';
+    font-weight: 400;
+}
+
+@font-face {
+    src: url(../fonts/Pacifico-Regular.woff) format('woff');
+    font-family: 'Pacifico-Regular';
+    font-weight: normal;
+}
+
+@font-face {
+    src: url(../fonts/TimesNewRomanPSMT.woff) format('woff');
+    font-family: 'TimesNewRoman';
+    font-weight: normal;
+}
