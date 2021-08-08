@@ -1,0 +1,6 @@
+.header__social-line {
+    background: #fff;
+    min-height: 34px;
+    display: flex;
+    align-items: center;
+}

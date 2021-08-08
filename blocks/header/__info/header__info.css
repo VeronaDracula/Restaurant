@@ -1,0 +1,6 @@
+.header__info {
+    margin: 0 195px 0 0;
+    padding: 0;
+    display: flex;
+    list-style: none;
+}

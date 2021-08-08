@@ -1,0 +1,4 @@
+.header__social-line-container {
+    display: flex;
+    justify-content: flex-end;
+}

@@ -1,0 +1,13 @@
+.header__info-item {
+    margin-right: 45px;
+    display: flex;
+    align-items: center;
+    font-size: 15px;
+    color: #2b2b2b;
+    font-weight: 400;
+    font-family: "Open Sans", sans-serif;
+}
+
+.header__info-item:last-child {
+    margin-right: 0;
+}

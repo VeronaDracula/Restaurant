@@ -8,9 +8,10 @@
 
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__social-line/header__social-line.css);
+@import url(../blocks/header/__social-line-container/header__social-line-container.css);
 @import url(../blocks/header/__info/header__info.css);
 @import url(../blocks/header/__info-item/header__info-item.css);
-@import url(../blocks/header/__info-link/header__info-link.css);
+@import url(../blocks/header/__info-img/header__info-img.css);
 @import url(../blocks/header/__social/header__social.css);
 @import url(../blocks/header/__social-item/header__social-item.css);
 @import url(../blocks/header/__social-link/header__social-link.css);
