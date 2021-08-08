@@ -14,11 +14,11 @@
 @font-face {
     src: url(../fonts/Pacifico-Regular.woff) format('woff');
     font-family: 'Pacifico-Regular';
-    font-weight: normal;
+    font-weight: 400;
 }
 
 @font-face {
     src: url(../fonts/TimesNewRomanPSMT.woff) format('woff');
     font-family: 'TimesNewRoman';
-    font-weight: normal;
+    font-weight: 400;
 }

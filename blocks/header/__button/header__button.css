@@ -1,0 +1,16 @@
+.header__button {
+    width: 162px;
+    height: 45px;
+    border-radius: 5px;
+    background-color: rgba(231,163,49,0);
+    border: 2px solid #fff;
+    font-size: 20px;
+    color: #ffffff;
+    font-family: "Times New Roman", serif;
+    font-weight: 400;
+}
+
+.header__button:hover {
+    opacity: 0.5;
+    cursor: pointer;
+}
