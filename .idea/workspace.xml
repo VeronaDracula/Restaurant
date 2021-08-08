@@ -2,38 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="627e1601-70e8-4692-968e-bbeca2e8e858" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/blocks/header/__info-item/header__info-item.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/header/__info-link/header__info-link.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/header/__info/header__info.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/header/__menu-button/header__menu-button.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/header/__site-menu-button/header__site-menu-button.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/header/__social-item/header__social-item.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/header/__social-line/header__social-line.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/header/__social-link/header__social-link.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/header/__social/header__social.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/header/header.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/logo/logo.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/page/__container/page__container.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/site-menu/__item/site-menu__item.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/site-menu/__link/site-menu__link.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/site-menu/site-menu.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/P.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/P.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/P1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/f.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/f1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/g.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/g1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/in.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/in1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/inst.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/inst1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/twitter.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/twitter1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/what's app.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/what's app1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/youtube.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/youtube1.png" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/header/__site-menu-button-container/header__site-menu-button-container.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/header/__menu-button/header__menu-button.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/__menu-button/header__menu-button.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/header/__site-menu-button/header__site-menu-button.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/__site-menu-button/header__site-menu-button.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/site-menu/__item/site-menu__item.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/site-menu/__item/site-menu__item.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/site-menu/__link/site-menu__link.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/site-menu/__link/site-menu__link.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/site-menu/site-menu.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/site-menu/site-menu.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.css" afterDir="false" />
     </list>
@@ -89,7 +64,7 @@
       <workItem from="1617568319824" duration="1992000" />
       <workItem from="1618861115632" duration="1337000" />
       <workItem from="1619116076073" duration="1000000" />
-      <workItem from="1628359441390" duration="9923000" />
+      <workItem from="1628359441390" duration="14364000" />
     </task>
     <task id="LOCAL-00001" summary="page1, page2 lg">
       <created>1614513517582</created>
@@ -112,7 +87,21 @@
       <option name="project" value="LOCAL" />
       <updated>1628369877497</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="header html">
+      <created>1628419352494</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1628419352494</updated>
+    </task>
+    <task id="LOCAL-00005" summary="social-line and logo">
+      <created>1628421824627</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1628421824627</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,20 +110,22 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="page1, page2 lg" />
     <MESSAGE value="fonts, files" />
-    <option name="LAST_COMMIT_MESSAGE" value="fonts, files" />
+    <MESSAGE value="header html" />
+    <MESSAGE value="social-line and logo" />
+    <option name="LAST_COMMIT_MESSAGE" value="social-line and logo" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="393" y="0" key="CommitChangelistDialog2" timestamp="1628369876595">
+    <state x="393" y="0" key="CommitChangelistDialog2" timestamp="1628421823266">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="393" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1628369876595" />
+    <state x="393" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1628421823266" />
     <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1628413908981">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1628413908981" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1628369881764">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1628421826993">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1628369881764" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1628421826993" />
   </component>
 </project>

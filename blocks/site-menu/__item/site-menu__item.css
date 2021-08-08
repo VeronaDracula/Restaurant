@@ -1,0 +1,7 @@
+.site-menu__item {
+    margin-right: 48px;
+}
+
+.site-menu__item:last-child {
+    margin-right: 0;
+}

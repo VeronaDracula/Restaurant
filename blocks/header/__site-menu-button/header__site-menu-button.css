@@ -1,0 +1,6 @@
+.header__site-menu-button {
+    background: rgba(0, 0, 0, 0.6);
+    min-height: 92px;
+    display: flex;
+    align-items: center;
+}
