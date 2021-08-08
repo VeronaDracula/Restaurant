@@ -2,16 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="627e1601-70e8-4692-968e-bbeca2e8e858" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/blocks/about-us/__container/about-us__container.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/about-us/__image/about-us__image.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/about-us/__info/about-us__info.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/about-us/__sprite/about-us__sprite.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/about-us/__subtitle/about-us__subtitle.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/about-us/__text/about-us__text.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/about-us/__texts/about-us__texts.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/about-us/__title/about-us__title.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/about-us/about-us.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/button/button.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/special-recipes/__container/special-recipes__container.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/special-recipes/__image/special-recipes__image.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/special-recipes/__info/special-recipes__info.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/special-recipes/special-recipes.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.css" afterDir="false" />
     </list>
@@ -44,6 +38,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\gitWebsormProjects\Restaurant\blocks\special-recipes\__container" />
       <recent name="C:\Users\User\gitWebsormProjects\Restaurant\blocks" />
     </key>
   </component>
@@ -67,7 +62,7 @@
       <workItem from="1617568319824" duration="1992000" />
       <workItem from="1618861115632" duration="1337000" />
       <workItem from="1619116076073" duration="1000000" />
-      <workItem from="1628359441390" duration="23876000" />
+      <workItem from="1628359441390" duration="26646000" />
     </task>
     <task id="LOCAL-00001" summary="page1, page2 lg">
       <created>1614513517582</created>
@@ -125,7 +120,14 @@
       <option name="project" value="LOCAL" />
       <updated>1628432364867</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="about us">
+      <created>1628438842167</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1628438842167</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,20 +140,21 @@
     <MESSAGE value="social-line and logo" />
     <MESSAGE value="site-menu" />
     <MESSAGE value="header" />
-    <option name="LAST_COMMIT_MESSAGE" value="header" />
+    <MESSAGE value="about us" />
+    <option name="LAST_COMMIT_MESSAGE" value="about us" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="393" y="0" key="CommitChangelistDialog2" timestamp="1628432364391">
+    <state x="393" y="0" key="CommitChangelistDialog2" timestamp="1628438841622">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="393" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1628432364391" />
+    <state x="393" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1628438841622" />
     <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1628413908981">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1628413908981" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1628432370526">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1628438854496">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1628432370526" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1628438854496" />
   </component>
 </project>

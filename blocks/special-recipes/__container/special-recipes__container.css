@@ -1,0 +1,4 @@
+.special-recipes__container {
+    display: grid;
+    grid-template-columns: minmax(300px, 5fr) minmax(400px, 7fr);
+}
