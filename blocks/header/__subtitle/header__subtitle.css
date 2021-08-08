@@ -1,5 +1,5 @@
 .header__subtitle {
-    width: 882px;
+    max-width: 882px;
     font-size: 25px;
     color: #ffffff;
     font-family: "Times New Roman", serif;
