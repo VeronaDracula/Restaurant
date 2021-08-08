@@ -1,0 +1,7 @@
+.about-us {
+    background-image: url("../../images/back-about.jpg");
+    background-size: cover;
+    background-position: center;
+    min-height: 616px;
+    position: relative;
+}

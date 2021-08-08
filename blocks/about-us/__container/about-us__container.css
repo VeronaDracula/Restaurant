@@ -1,0 +1,6 @@
+.about-us__container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(350px, auto));
+    grid-gap: 41px;
+    padding-top: 112px;
+}

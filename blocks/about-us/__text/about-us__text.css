@@ -1,0 +1,11 @@
+.about-us__text {
+    font-size: 15px;
+    color: #4a4a4a;
+    font-family: 'TimesNewRoman', serif;
+    font-weight: 400;
+    margin: 0 0 29px 0;
+}
+
+.about-us__text:last-child {
+    margin-bottom: 0;
+}
