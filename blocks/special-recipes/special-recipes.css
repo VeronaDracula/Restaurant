@@ -1,3 +1,5 @@
 .special-recipes {
-
+    background-image: url("../../images/back-special-recipes.jpg");
+    background-size: cover;
+    background-position: center;
 }

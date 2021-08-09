@@ -1,0 +1,9 @@
+.special-recipes__subtitle {
+    font-size: 38px;
+    color: #000;
+    font-family: 'TimesNewRoman', serif;
+    font-weight: 400;
+    text-transform: uppercase;
+    margin: 0 0 40px 0;
+}
+

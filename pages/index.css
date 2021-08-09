@@ -45,4 +45,7 @@
 @import url(../blocks/special-recipes/__container/special-recipes__container.css);
 @import url(../blocks/special-recipes/__info/special-recipes__info.css);
 @import url(../blocks/special-recipes/__image/special-recipes__image.css);
+@import url(../blocks/special-recipes/__title/special-recipes__title.css);
+@import url(../blocks/special-recipes/__subtitle/special-recipes__subtitle.css);
+@import url(../blocks/special-recipes/__text/special-recipes__text.css);
 

@@ -1,5 +1,19 @@
 .special-recipes__info {
-    background: red;
+    background-image: url("../../../images/special-recipes-miniBack.jpg");
+    background-size: cover;
     position: relative;
-    right: -50px;
+    right: -7%;
+    /*height: 466px;*/
+    height: 85%;
+    padding: 50px 45px 0 45px;
+
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+}
+
+@media screen and (max-width: 1430px) {
+    .special-recipes__info {
+        padding: 30px 25px 0 25px;
+    }
 }
