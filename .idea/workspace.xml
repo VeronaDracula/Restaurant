@@ -2,18 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="627e1601-70e8-4692-968e-bbeca2e8e858" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/blocks/title/__subtitle/_theme/title__subtitle_theme_experience.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/menu/__box/menu__box.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/menu/__container/menu__container.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/menu/__image/menu__image.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/menu/__item-img/menu__item-img.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/menu/__item/menu__item.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/menu/__list/menu__list.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/menu/__sprite/menu__sprite.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/menu/__title/menu__title.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/menu/menu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/title/__subtitle/_theme/title__subtitle_theme_menu.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/button/_theme/button_theme_hover.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/button/_theme/button_theme_hover.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/experience/__container/experience__container.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/experience/__container/experience__container.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blocks/experience/__sprite/experience__sprite.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/experience/__sprite/experience__sprite.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/experience/experience.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/experience/experience.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/hover/__price/hover__price.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/hover/__price/hover__price.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/hover/__title/hover__title.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/hover/__title/hover__title.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/hover/hover.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/hover/hover.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/photo/__box/photo__box.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/photo/__box/photo__box.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/photo/__item/photo__item.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/photo/__item/photo__item.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/photo/photo.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/photo/photo.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/special-recipes/__sprite/special-recipes__sprite.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/special-recipes/__sprite/special-recipes__sprite.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.css" afterDir="false" />
     </list>
@@ -72,7 +73,7 @@
       <workItem from="1618861115632" duration="1337000" />
       <workItem from="1619116076073" duration="1000000" />
       <workItem from="1628359441390" duration="27906000" />
-      <workItem from="1628451423107" duration="18038000" />
+      <workItem from="1628451423107" duration="22170000" />
     </task>
     <task id="LOCAL-00001" summary="page1, page2 lg">
       <created>1614513517582</created>
@@ -179,7 +180,14 @@
       <option name="project" value="LOCAL" />
       <updated>1628595819110</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="experience">
+      <created>1628601169582</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1628601169582</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -199,20 +207,21 @@
     <MESSAGE value="block title" />
     <MESSAGE value="blocks title and text" />
     <MESSAGE value="experience html" />
-    <option name="LAST_COMMIT_MESSAGE" value="experience html" />
+    <MESSAGE value="experience" />
+    <option name="LAST_COMMIT_MESSAGE" value="experience" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="393" y="0" key="CommitChangelistDialog2" timestamp="1628595818565">
+    <state x="393" y="0" key="CommitChangelistDialog2" timestamp="1628601169005">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="393" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1628595818565" />
+    <state x="393" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1628601169005" />
     <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1628413908981">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1628413908981" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1628593350185">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1628601173409">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1628593350185" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1628601173409" />
   </component>
 </project>

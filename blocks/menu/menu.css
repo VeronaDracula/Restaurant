@@ -1,0 +1,7 @@
+.menu {
+    background-image: url("../../images/back-menu.jpg");
+    background-size: cover;
+    background-position: top center;
+    position: relative;
+    text-align: center;
+}
