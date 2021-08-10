@@ -1,3 +1,12 @@
 .experience__container {
+    text-align: center;
 
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+
+    padding-top: 107px;
+    padding-bottom: 59px;
+    position: relative;
+    z-index: 2;
 }

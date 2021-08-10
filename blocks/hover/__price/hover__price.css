@@ -1,3 +1,12 @@
 .hover__price {
+    font-size: 41px;
+    color: #fff;
+    font-family: 'TimesNewRoman', serif;
+    font-weight: 400;
+    margin: 0 0 10.1% 0;
+    line-height: 35px;
+}
+
+@media screen and (max-width: 1440px){
 
 }

@@ -1,3 +1,7 @@
 .experience__sprite {
-
+    position: absolute;
+    right: 0;
+    bottom: -169px;
+    width: 166px;
+    height: 338px;
 }
