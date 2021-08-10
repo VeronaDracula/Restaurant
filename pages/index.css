@@ -73,8 +73,11 @@
 
 @import url(../blocks/menu/menu.css);
 @import url(../blocks/menu/__container/menu__container.css);
+@import url(../blocks/menu/__container/_place/menu__container_place_honest-item.css);
 @import url(../blocks/menu/__image/menu__image.css);
+@import url(../blocks/menu/__image/_place/menu__image_place_honest-item.css);
 @import url(../blocks/menu/__box/menu__box.css);
+@import url(../blocks/menu/__box/_place/menu__box_place_honest-item.css);
 @import url(../blocks/menu/__title/menu__title.css);
 @import url(../blocks/menu/__list/menu__list.css);
 @import url(../blocks/menu/__item/menu__item.css);
