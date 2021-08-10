@@ -1,3 +1,13 @@
 .menu__item {
+    display: flex;
+    align-items: center;
+    margin: 0 0 10px 0;
+    font-size: 18px;
+    color: #000;
+    font-family: 'TimesNewRoman', serif;
+    font-weight: 400;
+}
 
+.menu__item:last-child {
+    margin-bottom: 0;
 }
