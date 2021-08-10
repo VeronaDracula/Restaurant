@@ -5,6 +5,7 @@
 @import url(../blocks/page/__container/page__container.css);
 
 @import url(../blocks/button/button.css);
+@import url(../blocks/button/_theme/button_theme_hover.css);
 
 @import url(../blocks/title/__title/title__title.css);
 @import url(../blocks/title/__subtitle/title__subtitle.css);
@@ -54,4 +55,14 @@
 @import url(../blocks/special-recipes/__texts/special-recipes__texts.css);
 @import url(../blocks/special-recipes/__image/special-recipes__image.css);
 @import url(../blocks/special-recipes/__sprite/special-recipes__sprite.css);
+
+@import url(../blocks/experience/experience.css);
+@import url(../blocks/experience/__container/experience__container.css);
+@import url(../blocks/experience/__sprite/experience__sprite.css);
+
+@import url(../blocks/photo/photo.css);
+@import url(../blocks/photo/__item/photo__item.css);
+@import url(../blocks/photo/__box/photo__box.css);
+@import url(../blocks/hover/__title/hover__title.css);
+@import url(../blocks/hover/__price/hover__price.css);
 
