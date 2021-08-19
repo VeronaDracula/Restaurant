@@ -84,4 +84,15 @@
 @import url(../blocks/menu/__item-img/menu__item-img.css);
 @import url(../blocks/menu/__sprite/menu__sprite.css);
 
-
+@import url(../blocks/app/app.css);
+@import url(../blocks/app/__container/app__container.css);
+@import url(../blocks/app/__image-container/app__image-container.css);
+@import url(../blocks/app/__img/app__img.css);
+@import url(../blocks/app/__info-container/app__info-container.css);
+@import url(../blocks/app/__subtitle/app__subtitle.css);
+@import url(../blocks/app/__title/app__title.css);
+@import url(../blocks/app/__text/app__text.css);
+@import url(../blocks/app/__links/app__links.css);
+@import url(../blocks/app/__item-link/app__item-link.css);
+@import url(../blocks/app/__link/app__link.css);
+@import url(../blocks/app/__link-img/app__link-img.css);
