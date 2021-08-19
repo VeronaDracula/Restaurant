@@ -1,7 +1,5 @@
 .menu__sprite {
     position: absolute;
     left: 0;
-    /*bottom: -25%;*/
-    bottom: -210px;
-    z-index: 1;
+    bottom: 0;
 }
