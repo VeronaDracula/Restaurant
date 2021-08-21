@@ -1,3 +1,7 @@
 .footer__social-item {
+    margin: 0 13px 0 0;
+}
 
+.footer__social-item:last-child {
+    margin-bottom: 0;
 }

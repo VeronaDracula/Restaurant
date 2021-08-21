@@ -1,3 +1,8 @@
 .footer__column-title {
-
+    font-size: 15px;
+    color: #ffffff;
+    font-family: 'TimesNewRoman', serif;
+    font-weight: 400;
+    text-align: center;
+    margin: 0 0 26px 0;
 }

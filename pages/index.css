@@ -9,6 +9,9 @@
 
 @import url(../blocks/title/__title/title__title.css);
 @import url(../blocks/title/__title/_theme/title__title_theme_menu.css);
+@import url(../blocks/title/__title/_theme/title__title_theme_footer-contacts.css);
+@import url(../blocks/title/__title/_theme/title__title_theme_footer-working-hours.css);
+@import url(../blocks/title/__title/_theme/title__title_theme_footer-forms.css);
 @import url(../blocks/title/__subtitle/title__subtitle.css);
 @import url(../blocks/title/__subtitle/_theme/title__subtitle_theme_about-us.css);
 @import url(../blocks/title/__subtitle/_theme/title__subtitle_theme_special-recipes.css);
@@ -100,10 +103,11 @@
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__container/footer__container.css);
 @import url(../blocks/footer/__column/footer__column.css);
-@import url(../blocks/footer/__column/_theme/footer__column_theme_contacts.css);
-@import url(../blocks/footer/__column/_theme/footer__column_theme_working-hours.css);
-@import url(../blocks/footer/__column/_theme/footer__column_theme_forms.css);
+@import url(../blocks/footer/__column-contacts/footer__column-contacts.css);
+@import url(../blocks/footer/__column-working-hours/footer__column-working-hours.css);
+
 @import url(../blocks/footer/__column-text/footer__column-text.css);
+@import url(../blocks/footer/__column-text/_type/footer__column-text_type_working-hours.css);
 @import url(../blocks/footer/__social/footer__social.css);
 @import url(../blocks/footer/__social-item/footer__social-item.css);
 @import url(../blocks/footer/__social-link/footer__social-link.css);
@@ -116,3 +120,4 @@
 
 @import url(../blocks/form/form.css);
 @import url(../blocks/form/__item/form__item.css);
+@import url(../blocks/form/__item/_type/form__item_type_message.css);
