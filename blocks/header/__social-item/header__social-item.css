@@ -5,3 +5,9 @@
 .header__social-item:last-child {
     margin-right: 0;
 }
+
+@media screen and (max-width: 1080px){
+    .header__social-item {
+        margin-right: 10px;
+    }
+}

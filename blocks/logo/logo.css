@@ -4,3 +4,9 @@
     top: 0;
     z-index: 2;
 }
+
+@media screen and (max-width: 1280px){
+    .logo {
+        width: 309px;
+    }
+}

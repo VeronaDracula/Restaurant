@@ -5,3 +5,15 @@
 .site-menu__item:last-child {
     margin-right: 0;
 }
+
+@media screen and (max-width: 1280px){
+    .site-menu__item {
+        margin-right: 30px;
+    }
+}
+
+@media screen and (max-width: 1080px){
+    .site-menu__item {
+        margin-right: 20px;
+    }
+}
