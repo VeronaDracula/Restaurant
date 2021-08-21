@@ -1,3 +1,9 @@
 .app__title {
-
+    font-size: 95px;
+    color: #fff;
+    font-family: 'TimesNewRoman', serif;
+    font-weight: 400;
+    text-transform: uppercase;
+    line-height: 70px;
+    margin: 0 0 19px 0;
 }

@@ -1,3 +1,4 @@
 .app__info-container {
-
+    position: relative;
+    top: 100px;
 }

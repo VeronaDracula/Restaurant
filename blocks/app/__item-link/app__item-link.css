@@ -1,3 +1,7 @@
 .app__item-link {
+    margin-right: 31px;
+}
 
+.app__item-link:last-child {
+    margin-right: 0;
 }

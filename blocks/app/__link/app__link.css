@@ -1,3 +1,4 @@
-.app__link {
-
+.app__link:hover{
+    cursor: pointer;
+    opacity: 0.7;
 }

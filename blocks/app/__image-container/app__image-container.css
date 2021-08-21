@@ -1,3 +1,5 @@
 .app__image-container {
+    display: flex;
+    justify-content: flex-end;
 
 }

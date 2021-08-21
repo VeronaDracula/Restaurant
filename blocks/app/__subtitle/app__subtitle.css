@@ -1,3 +1,7 @@
 .app__subtitle {
-
+    font-size: 30px;
+    color: #fff;
+    font-family: 'Pacifico-Regular', sans-serif;
+    font-weight: 400;
+    margin: 0 0 32px 0;
 }
