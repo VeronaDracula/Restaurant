@@ -5,3 +5,9 @@
     width: 290px;
     height: 345px;
 }
+
+@media screen and (max-width: 1380px){
+    .about-us__sprite {
+        opacity: 0.5;
+    }
+}
