@@ -7,6 +7,16 @@
     line-height: 35px;
 }
 
-@media screen and (max-width: 1440px){
+@media screen and (max-width: 1380px){
+    .hover__price {
+        font-size: 36px;
+        line-height: 30px;
+    }
+}
 
+@media screen and (max-width: 1280px){
+    .hover__price {
+        font-size: 33px;
+        line-height: 27px;
+    }
 }
