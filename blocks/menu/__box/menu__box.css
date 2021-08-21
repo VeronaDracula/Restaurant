@@ -8,9 +8,23 @@
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
 
-    padding-left: 7%;
-    padding-top: 8%;
+    padding-left: 58px;
+    padding-top: 52px;
     display: flex;
     flex-direction: column;
     align-items: flex-start;
+}
+
+@media screen and (max-width: 1440px){
+    .menu__box {
+        padding-left: 38px;
+        padding-top: 32px;
+    }
+}
+
+@media screen and (min-width: 1024px) and (max-width: 1280px){
+    .menu__box {
+        padding-left: 26px;
+        padding-top: 20px;
+    }
 }
