@@ -96,3 +96,23 @@
 @import url(../blocks/app/__item-link/app__item-link.css);
 @import url(../blocks/app/__link/app__link.css);
 @import url(../blocks/app/__link-img/app__link-img.css);
+
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__container/footer__container.css);
+@import url(../blocks/footer/__column/footer__column.css);
+@import url(../blocks/footer/__column/_theme/footer__column_theme_contacts.css);
+@import url(../blocks/footer/__column/_theme/footer__column_theme_working-hours.css);
+@import url(../blocks/footer/__column/_theme/footer__column_theme_forms.css);
+@import url(../blocks/footer/__column-text/footer__column-text.css);
+@import url(../blocks/footer/__social/footer__social.css);
+@import url(../blocks/footer/__social-item/footer__social-item.css);
+@import url(../blocks/footer/__social-link/footer__social-link.css);
+@import url(../blocks/footer/__social-icon/footer__social-icon.css);
+@import url(../blocks/footer/__column-title/footer__column-title.css);
+@import url(../blocks/footer/__copyright-line/footer__copyright-line.css);
+@import url(../blocks/footer/__copyright/footer__copyright.css);
+@import url(../blocks/footer/__sprite-1/footer__sprite-1.css);
+@import url(../blocks/footer/__sprite-2/footer__sprite-2.css);
+
+@import url(../blocks/form/form.css);
+@import url(../blocks/form/__item/form__item.css);
