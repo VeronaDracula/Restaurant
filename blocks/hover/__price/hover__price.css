@@ -20,3 +20,11 @@
         line-height: 27px;
     }
 }
+
+@media screen and (max-width: 610px) {
+    .hover__price {
+        font-size: 24px;
+        line-height: 21px;
+        margin: 0 0 9% 0;
+    }
+}
