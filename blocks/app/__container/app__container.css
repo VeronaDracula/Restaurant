@@ -2,6 +2,14 @@
     display: grid;
     grid-template-columns: 5fr 7fr;
     gap: 51px;
-    padding-bottom: 107px;
     padding-top: 47px;
+    padding-bottom: 107px;
+}
+
+@media screen and (max-width: 1024px){
+    .app__container {
+        grid-template-columns: 1fr;
+        padding-top: 67px;
+        padding-bottom: 57px;
+    }
 }

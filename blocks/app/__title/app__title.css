@@ -7,3 +7,10 @@
     line-height: 70px;
     margin: 0 0 19px 0;
 }
+
+@media screen and (min-width: 1025px) and (max-width: 1280px){
+    .app__title {
+        font-size: 85px;
+        line-height: 60px;
+    }
+}
