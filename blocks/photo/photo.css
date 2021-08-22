@@ -3,3 +3,9 @@
     grid-template-columns: repeat(4, 1fr);
     padding-bottom: 58px;
 }
+
+@media screen and (max-width: 1024px){
+    .photo {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}

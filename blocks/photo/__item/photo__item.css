@@ -5,5 +5,5 @@
 }
 
 .photo__item:hover+ .hover {
-    display: block;
+    display: flex;
 }
