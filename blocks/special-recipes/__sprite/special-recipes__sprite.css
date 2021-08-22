@@ -1,7 +1,13 @@
 .special-recipes__sprite {
     position: absolute;
     left: 0;
-    /*bottom: -25%;*/
     bottom: -210px;
     z-index: 1;
+    width: 186px;
+}
+
+@media screen and (max-width: 610px) {
+    .special-recipes__sprite {
+        display: none;
+    }
 }

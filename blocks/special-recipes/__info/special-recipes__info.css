@@ -25,6 +25,14 @@
 
 @media screen and (max-width: 1024px) {
     .special-recipes__info {
+        height: auto;
         min-height: 466px;
+        right: 0;
+    }
+}
+
+@media screen and (max-width: 610px) {
+    .special-recipes__info {
+        padding: 30px 25px 30px 25px;
     }
 }

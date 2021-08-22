@@ -13,6 +13,7 @@
 
 @media screen and (max-width: 1024px){
     .special-recipes__container {
-        grid-template-columns: 533px;
+        grid-template-columns: repeat(auto-fit, minmax(280px, 533px));
+        left: 0;
     }
 }
