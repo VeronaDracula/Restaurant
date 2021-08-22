@@ -30,3 +30,9 @@
         padding: 2px 0;
     }
 }
+
+@media screen and (max-width: 768px){
+    .header__info {
+        margin-right: 10px;
+    }
+}

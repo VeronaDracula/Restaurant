@@ -22,3 +22,9 @@
         margin-bottom: 0;
     }
 }
+
+@media screen and (max-width: 768px){
+    .header__info-item {
+        font-size: 13px;
+    }
+}

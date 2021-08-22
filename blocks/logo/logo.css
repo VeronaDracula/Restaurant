@@ -17,3 +17,10 @@
         left: 5%;
     }
 }
+
+@media screen and (max-width: 768px){
+    .logo {
+        width: 229px;
+        left: 3%;
+    }
+}

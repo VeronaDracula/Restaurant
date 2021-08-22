@@ -10,3 +10,9 @@
     opacity:0.5;
     cursor: pointer;
 }
+
+@media screen and (max-width: 768px){
+    .site-menu__link {
+        font-size: 15px;
+    }
+}
