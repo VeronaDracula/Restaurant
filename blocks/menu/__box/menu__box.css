@@ -15,19 +15,20 @@
     align-items: flex-start;
 }
 
-@media screen and (min-width: 1280px) and (max-width: 1440px) {
+@media screen and (min-width: 1290px) and (max-width: 1440px) {
     .menu__box {
         padding-left: 38px;
         padding-top: 32px;
     }
 }
 
-@media screen and (min-width: 1025px) and (max-width: 1280px) {
+@media screen and (min-width: 1025px) and (max-width: 1290px) {
     .menu__box {
-        padding-left: 26px;
-        padding-top: 20px;
+        padding-left: 22px;
+        padding-top: 16px;
     }
 }
+
 
 @media screen and (max-width: 1024px) {
     .menu__box {
@@ -37,7 +38,6 @@
         left: 0;
     }
 }
-
 
 @media screen and (max-width: 630px) {
     .menu__box {

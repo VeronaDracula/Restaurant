@@ -12,9 +12,15 @@
     margin-bottom: 0;
 }
 
-@media screen and (min-width: 1150px) and(max-width: 1360px) {
+@media screen and (min-width: 1270px) and(max-width: 1360px) {
     .menu__item {
         font-size: 15px;
+    }
+}
+
+@media screen and (min-width: 1150px) and (max-width: 1270px) {
+    .menu__item {
+        font-size: 14px;
     }
 }
 
