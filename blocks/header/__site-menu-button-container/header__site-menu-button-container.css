@@ -3,3 +3,11 @@
     justify-content: flex-end;
     align-items: center;
 }
+
+@media screen and (max-width: 1024px){
+    .header__site-menu-button-container {
+        flex-direction: column;
+        justify-content: center;
+        align-items: flex-end;
+    }
+}

@@ -10,3 +10,10 @@
         width: 309px;
     }
 }
+
+@media screen and (max-width: 1024px){
+    .logo {
+        width: 299px;
+        left: 5%;
+    }
+}

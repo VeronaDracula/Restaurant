@@ -3,10 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="627e1601-70e8-4692-968e-bbeca2e8e858" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/footer/__column/footer__column.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/footer/__column/footer__column.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/footer/__container/footer__container.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/footer/__container/footer__container.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/form/form.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/form/form.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/header/__info-item/header__info-item.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/__info-item/header__info-item.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/header/__info/header__info.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/__info/header__info.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/header/__site-menu-button-container/header__site-menu-button-container.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/__site-menu-button-container/header__site-menu-button-container.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/header/__social-item/header__social-item.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/__social-item/header__social-item.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/logo/logo.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/logo/logo.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/site-menu/site-menu.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/site-menu/site-menu.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +67,7 @@
       <workItem from="1628359441390" duration="27906000" />
       <workItem from="1628451423107" duration="29254000" />
       <workItem from="1629125959685" duration="53000" />
-      <workItem from="1629226230095" duration="26163000" />
+      <workItem from="1629226230095" duration="32586000" />
     </task>
     <task id="LOCAL-00001" summary="page1, page2 lg">
       <created>1614513517582</created>
@@ -277,14 +279,20 @@
       <option name="project" value="LOCAL" />
       <updated>1629564069976</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="footer flex center max-width 1200px">
+      <created>1629565273449</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1629565273449</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="header html" />
     <MESSAGE value="social-line and logo" />
     <MESSAGE value="site-menu" />
     <MESSAGE value="header" />
@@ -309,21 +317,22 @@
     <MESSAGE value="special-recipes max-width 1024" />
     <MESSAGE value="hover max-width 1024" />
     <MESSAGE value="menu before 1024px" />
-    <option name="LAST_COMMIT_MESSAGE" value="menu before 1024px" />
+    <MESSAGE value="footer flex center max-width 1200px" />
+    <option name="LAST_COMMIT_MESSAGE" value="footer flex center max-width 1200px" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="393" y="0" key="CommitChangelistDialog2" timestamp="1629564069518">
+    <state x="393" y="0" key="CommitChangelistDialog2" timestamp="1629565272964">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="393" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1629564069518" />
+    <state x="393" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1629565272964" />
     <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1628935122073">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1628935122073" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1629561841775">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1629565277158">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1629561841775" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1629565277158" />
     <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1629538915344">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

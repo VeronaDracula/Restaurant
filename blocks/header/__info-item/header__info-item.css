@@ -11,3 +11,14 @@
 .header__info-item:last-child {
     margin-right: 0;
 }
+
+@media screen and (max-width: 1024px){
+    .header__info-item {
+        margin-right: 0;
+        margin-bottom: 5px;
+    }
+
+    .header__info-item:last-child {
+        margin-bottom: 0;
+    }
+}

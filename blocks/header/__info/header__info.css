@@ -22,3 +22,11 @@
         margin-right: 20px;
     }
 }
+
+@media screen and (max-width: 1024px){
+    .header__info {
+        flex-direction: column;
+        margin-right: 15px;
+        padding: 2px 0;
+    }
+}
