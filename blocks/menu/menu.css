@@ -7,7 +7,7 @@
     padding-bottom: 172px;
 }
 
-@media screen and (max-width: 1023px) {
+@media screen and (max-width: 1024px) {
     .menu {
         padding-bottom: 100px;
     }
