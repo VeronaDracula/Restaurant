@@ -12,3 +12,10 @@
         font-size: 20px;
     }
 }
+
+@media screen and (max-width: 610px) {
+    .app__text {
+        font-size: 21px;
+        text-align: center;
+    }
+}
