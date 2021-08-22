@@ -10,3 +10,10 @@
 .menu__container:last-child {
     margin-bottom: 0;
 }
+
+@media screen and (max-width: 1023px) {
+    .menu__container {
+        grid-template-columns: minmax(300px, 598px);
+        justify-content: center;
+    }
+}

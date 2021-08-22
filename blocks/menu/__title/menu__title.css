@@ -6,14 +6,14 @@
     margin: 0 0 35px 0;
 }
 
-@media screen and (max-width: 1440px){
+@media screen and (min-width: 1280px) and (max-width: 1440px) {
     .menu__title {
         font-size: 30px;
         margin: 0 0 25px 0;
     }
 }
 
-@media screen and (min-width: 1024px) and (max-width: 1280px){
+@media screen and (min-width: 1024px) and (max-width: 1280px) {
     .menu__title {
         font-size: 20px;
         margin: 0 0 10px 0;
