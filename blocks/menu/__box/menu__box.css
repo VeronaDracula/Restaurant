@@ -38,10 +38,16 @@
     }
 }
 
-@media screen and (max-width: 610px) {
+
+@media screen and (max-width: 630px) {
     .menu__box {
         padding-left: 12px;
         padding-top: 12px;
+    }
+}
+
+@media screen and (max-width: 540px) {
+    .menu__box {
         min-height: 320px;
     }
 }

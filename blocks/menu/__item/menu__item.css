@@ -25,7 +25,13 @@
     }
 }
 
-@media screen and (max-width: 610px) {
+@media screen and (max-width: 500px) {
+    .menu__item {
+        font-size: 15px;
+    }
+}
+
+@media screen and (max-width: 425px) {
     .menu__item {
         font-size: 11px;
     }
