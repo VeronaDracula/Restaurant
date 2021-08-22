@@ -10,3 +10,10 @@
     position: relative;
     z-index: 2;
 }
+
+@media screen and (max-width: 610px) {
+    .experience__container {
+        padding-top: 87px;
+        padding-bottom: 39px;
+    }
+}

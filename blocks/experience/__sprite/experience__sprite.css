@@ -6,3 +6,9 @@
     height: 338px;
     z-index: 1;
 }
+
+@media screen and (max-width: 610px) {
+    .experience__sprite {
+        display: none;
+    }
+}
