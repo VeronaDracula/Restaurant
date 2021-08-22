@@ -4,3 +4,9 @@
     list-style: none;
     display: flex;
 }
+
+@media screen and (max-width: 788px){
+    .footer__social {
+        margin: 28px 0 0 0;
+    }
+}

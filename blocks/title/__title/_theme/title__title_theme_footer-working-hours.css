@@ -3,3 +3,9 @@
     margin-bottom: 70px;
     text-align: center;
 }
+
+@media screen and (max-width: 788px){
+    .title__title_theme_footer-working-hours {
+        margin-bottom: 25px;
+    }
+}
