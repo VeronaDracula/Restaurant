@@ -7,3 +7,9 @@
     font-weight: 400;
     margin: 0 0 46px 0;
 }
+
+@media screen and (max-width: 610px){
+    .header__subtitle {
+        font-size: 18px;
+    }
+}

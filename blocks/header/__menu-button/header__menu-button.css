@@ -20,5 +20,6 @@
     .header__menu-button {
         width: 144px;
         height: 40px;
+        margin-left: 0;
     }
 }

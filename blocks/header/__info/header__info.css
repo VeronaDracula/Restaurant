@@ -36,3 +36,9 @@
         margin-right: 10px;
     }
 }
+
+@media screen and (max-width: 610px){
+    .header__info {
+       margin-bottom: 2px;
+    }
+}

@@ -7,3 +7,10 @@
     filter: drop-shadow(-1.5px 2.598px 3.5px #000000);
     margin: 175px 0 51px 0;
 }
+
+@media screen and (max-width: 610px){
+    .header__title {
+        font-size: 56px;
+        margin: 105px 0 51px 0;
+    }
+}

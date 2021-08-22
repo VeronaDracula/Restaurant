@@ -5,3 +5,9 @@
     list-style: none;
     align-items: center;
 }
+
+@media screen and (max-width: 610px){
+    .header__social {
+        padding-bottom: 2px;
+    }
+}

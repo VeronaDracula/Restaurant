@@ -11,3 +11,9 @@
         align-items: flex-end;
     }
 }
+
+@media screen and (max-width: 610px){
+    .header__site-menu-button-container {
+        align-items: center;
+    }
+}
