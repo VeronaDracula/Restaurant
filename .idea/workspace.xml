@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="627e1601-70e8-4692-968e-bbeca2e8e858" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/menu/__box/menu__box.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/menu/__box/menu__box.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,14 +61,7 @@
       <workItem from="1628359441390" duration="27906000" />
       <workItem from="1628451423107" duration="29254000" />
       <workItem from="1629125959685" duration="53000" />
-      <workItem from="1629226230095" duration="49773000" />
-    </task>
-    <task id="LOCAL-00002" summary="page1, page2 lg">
-      <created>1618860960566</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1618860960566</updated>
+      <workItem from="1629226230095" duration="50952000" />
     </task>
     <task id="LOCAL-00003" summary="fonts, files">
       <created>1628369877495</created>
@@ -407,14 +399,20 @@
       <option name="project" value="LOCAL" />
       <updated>1629641451264</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="menu box">
+      <created>1629642242505</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1629642242505</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="footer" />
     <MESSAGE value="header max-width 1024" />
     <MESSAGE value="about-us max-width 1024" />
     <MESSAGE value="special-recipes max-width 1024" />
@@ -439,24 +437,25 @@
     <MESSAGE value="footer 320px" />
     <MESSAGE value="menu" />
     <MESSAGE value="final" />
-    <option name="LAST_COMMIT_MESSAGE" value="final" />
+    <MESSAGE value="menu box" />
+    <option name="LAST_COMMIT_MESSAGE" value="menu box" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="393" y="0" key="CommitChangelistDialog2" timestamp="1629641450838">
+    <state x="393" y="0" key="CommitChangelistDialog2" timestamp="1629642242074">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="393" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1629641450838" />
+    <state x="393" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1629642242074" />
     <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1628935122073">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1628935122073" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1629641454429">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1629642245444">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1629641454429" />
-    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1629538915344">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1629642245444" />
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1629650389518">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1629538915344" />
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1629650389518" />
   </component>
 </project>
