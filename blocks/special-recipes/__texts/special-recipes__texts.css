@@ -2,13 +2,13 @@
     margin-bottom: 38px;
 }
 
-@media screen and (max-width: 1380px){
+@media screen and (min-width: 1280px) and (max-width: 1380px){
     .special-recipes__texts {
         margin-bottom: 20px;
     }
 }
 
-@media screen and (max-width: 1280px){
+@media screen and (min-width: 1024px) and (max-width: 1280px){
     .special-recipes__texts {
         margin-bottom: 15px;
     }
