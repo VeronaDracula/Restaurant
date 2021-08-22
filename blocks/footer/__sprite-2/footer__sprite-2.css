@@ -3,3 +3,9 @@
     right: 0;
     top: 120px;
 }
+
+@media screen and (max-width: 610px) {
+    .footer__sprite-2 {
+        display: none;
+    }
+}
