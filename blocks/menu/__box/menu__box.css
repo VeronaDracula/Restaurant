@@ -37,3 +37,11 @@
         left: 0;
     }
 }
+
+@media screen and (max-width: 610px) {
+    .menu__box {
+        padding-left: 18px;
+        padding-top: 12px;
+        min-height: 320px;
+    }
+}

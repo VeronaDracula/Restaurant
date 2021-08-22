@@ -4,3 +4,10 @@
         height: 42px;
     }
 }
+
+@media screen and (max-width: 610px) {
+    .menu__item-img {
+        width: 22px;
+        height: 22px;
+    }
+}
