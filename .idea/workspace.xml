@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="627e1601-70e8-4692-968e-bbeca2e8e858" name="Default Changelist" comment="">
+    <list default="true" id="627e1601-70e8-4692-968e-bbeca2e8e858" name="Default Changelist" comment="menu box">
+      <change afterPath="$PROJECT_DIR$/blocks/form/__button/_inactive/form__button_inactive.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/form/__input-error/_active/form__input-error_active.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/form/__input-error/_type/form__input-error_type_message.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/form/__input-error/form__input-error.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/form/__item/_type/form__item_type_error.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/form/__section/form__section.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/FormValidator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/form/__item/_type/form__item_type_message.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/form/__item/_type/form__item_type_message.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/form/__item/form__item.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/form/__item/form__item.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,6 +24,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaScript File" />
         <option value="CSS File" />
       </list>
     </option>
@@ -27,7 +40,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Creative_Digital_Agency" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -62,13 +75,8 @@
       <workItem from="1628451423107" duration="29254000" />
       <workItem from="1629125959685" duration="53000" />
       <workItem from="1629226230095" duration="50952000" />
-    </task>
-    <task id="LOCAL-00003" summary="fonts, files">
-      <created>1628369877495</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1628369877497</updated>
+      <workItem from="1629656884464" duration="36000" />
+      <workItem from="1634154430970" duration="6369000" />
     </task>
     <task id="LOCAL-00004" summary="header html">
       <created>1628419352494</created>
@@ -406,7 +414,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629642242505</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="menu box">
+      <created>1629656897266</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1629656897266</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -441,21 +456,21 @@
     <option name="LAST_COMMIT_MESSAGE" value="menu box" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="393" y="0" key="CommitChangelistDialog2" timestamp="1629642242074">
+    <state x="393" y="0" key="CommitChangelistDialog2" timestamp="1634218235364">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="393" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1629642242074" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1628935122073">
+    <state x="393" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1634218235364" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1634205964599">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1628935122073" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1629642245444">
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1634205964599" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1629656916581">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1629642245444" />
-    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1629650389518">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1629656916581" />
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1629656905631">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1629650389518" />
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1629656905631" />
   </component>
 </project>

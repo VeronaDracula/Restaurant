@@ -1,0 +1,5 @@
+.form__button_inactive {
+    background-color: rgba(231,163,49,0);
+    border: 2px solid #e7a331;
+    color: #e7a331;
+}

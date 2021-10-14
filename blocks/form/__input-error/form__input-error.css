@@ -1,0 +1,15 @@
+.form__input-error {
+    position: absolute;
+    left: 0;
+    top: 78%;
+
+    font-family: 'TimesNewRoman', serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    color: #e7a331;
+    z-index: 1;
+
+    opacity: 0;
+    transition: opacity 0.3s;
+}
